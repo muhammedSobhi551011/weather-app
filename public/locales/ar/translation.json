@@ -1,0 +1,23 @@
+{
+  "Cairo": "القاهرة",
+  "Sunny": "مشمس",
+  "max": "الكبرى",
+  "min": "الصغرى",
+  "Partly Cloudy": "غائم جزئياً",
+  "Cloudy": "غائم",
+  "Overcast": "ملبَد بالغيوم",
+  "Mist": "سديم",
+  "Patchy rain nearby": "أمطار متفاوتة قريبة",
+  "Patchy snow nearby": "ثلوج متفاوتة قريبة",
+  "Patchy sleet nearby": "صقيع متفاوت قريب",
+  "Patchy freezing drizzle nearby": "رذاذ متجمِد متفاوت قريب",
+  "Thundery outbreaks in nearby": "عواصف رعديَة في المناطق المجاورة",
+  "Blowing snow": "هبَات من الثلوج",
+  "Blizzard": "عاصفة ثلجيَة",
+  "Fog": "ضباب",
+  "Patchy light rain": "أمطار خفيفة متفاوتة",
+  "Light rain": "أمطار خفيفة",
+  "Moderate rain at times": "أمطار معتدلة أحياناً",
+  "Moderate rain": "أمطار معتدلة"
+
+}
