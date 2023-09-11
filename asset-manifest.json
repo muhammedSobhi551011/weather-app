@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b91d96c.css",
+    "main.js": "/static/js/main.525d39cc.js",
+    "static/js/787.d9312eb8.chunk.js": "/static/js/787.d9312eb8.chunk.js",
+    "static/media/Tajawal-Regular.ttf": "/static/media/Tajawal-Regular.e4ac0a5abb7d379e2308.ttf",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.2b91d96c.css.map": "/static/css/main.2b91d96c.css.map",
+    "main.525d39cc.js.map": "/static/js/main.525d39cc.js.map",
+    "787.d9312eb8.chunk.js.map": "/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b91d96c.css",
+    "static/js/main.525d39cc.js"
+  ]
+}
